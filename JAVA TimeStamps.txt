@@ -4,4 +4,4 @@ Skipped basics that I already knew. Did approx 1 hour and 40 min of work. Contin
 
 25/01/2024
 
-Use Java Clean on VSCODE to make Java from netbeans work
+CTRL + SHIFT + P = Use Java Clean on VSCODE to make Java from netbeans work
